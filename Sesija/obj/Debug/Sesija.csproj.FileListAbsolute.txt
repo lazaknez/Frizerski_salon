@@ -1,0 +1,75 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Sesija\obj\Debug\Sesija.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Sesija\bin\Debug\Sesija.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Sesija\bin\Debug\Sesija.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SofijaSeminarski\Sesija\obj\Debug\Sesija.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Sesija\obj\Debug\Sesija.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Sesija\bin\Debug\Sesija.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Sesija\bin\Debug\Sesija.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Sesija\bin\Debug\Biblioteka.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Sesija\bin\Debug\Biblioteka.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Sesija\obj\Debug\Sesija.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Sesija\obj\Debug\Sesija.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\bin\Debug\Sesija.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\bin\Debug\Sesija.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\obj\Debug\Sesija.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\bin\Debug\Sesija.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\obj\Debug\Sesija.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Sesija\obj\Debug\Sesija.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\bin\Debug\Sesija.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\bin\Debug\Sesija.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\obj\Debug\Sesija.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Sesija\obj\Debug\Sesija.pdb

@@ -1,0 +1,68 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\PC\Desktop\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\PC\Desktop\SofijaSeminarski\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SofijaSeminarski\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\PC\Desktop\SofijaSeminarski\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csprojResolveAssemblyReference.cache
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb

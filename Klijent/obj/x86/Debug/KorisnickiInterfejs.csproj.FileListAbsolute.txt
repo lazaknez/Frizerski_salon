@@ -1,0 +1,171 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\Klijent.exe
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\Klijent.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Desktop\SofijaSeminarski\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.PretragaUsluga.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Klijent\obj\x86\Debug\Klijent.IzmenaIBrisanjeRacuna.resources
+C:\Users\Arsa\Desktop\SemSep2015\MilicaSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\SemSep2015\MilicaSem\Klijent\obj\x86\Debug\Klijent.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.exe
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\Klijent.exe
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\Klijent.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\Biblioteka.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\Biblioteka.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.IzmenaIBrisanjeRacuna.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PretragaUsluga.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.IzmenaIBrisanjeRacuna.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PretragaUsluga.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\Klijent.exe
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.IzmenaIBrisanjeRacuna.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PretragaUsluga.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\Klijent.exe
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.IzmenaIBrisanjeRacuna.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.PretragaUsluga.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Klijent\obj\x86\Debug\Klijent.pdb

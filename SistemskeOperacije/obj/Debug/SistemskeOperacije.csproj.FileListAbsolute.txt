@@ -1,0 +1,86 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\PC\Desktop\SofijaSeminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

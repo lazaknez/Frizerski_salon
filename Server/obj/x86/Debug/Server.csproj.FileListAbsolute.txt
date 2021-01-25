@@ -1,0 +1,150 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\BasicSem\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\SofijaSeminarski\Server\obj\x86\Debug\Server.exe
+C:\Users\PC\Desktop\SofijaSeminarski\Server\obj\x86\Debug\Server.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\Server.exe
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\Server.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\Biblioteka.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\Sesija.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\Biblioteka.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\Sesija.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\PC\Desktop\SofijaSeminarski\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\SofijaSeminarski\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\PC\Desktop\SofijaSeminarski\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\PC\Desktop\SofijaSeminarski\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Desktop\SofijaSeminarski\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Sofija\SofijaSeminarski1.01\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Desktop\SemSep2015\MilicaSem\Server\obj\x86\Debug\Server.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\obj\x86\Debug\Server.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\Server.exe
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\Server.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\Biblioteka.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\Sesija.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\SistemskeOperacije.dll
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\Biblioteka.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\Sesija.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\bin\Debug\SistemskeOperacije.pdb
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\obj\x86\Debug\Server.Form1.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+I:\FAX\ps\2016\PSSeminarski\Sem2016\Frizerski salon\Server\obj\x86\Debug\Server.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\Server.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\Server.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\Biblioteka.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\Sesija.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\Biblioteka.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\Sesija.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.exe
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.pdb
+C:\Users\ARSA\Desktop\BB\PS\Projektni\Frizerski salon\Server\obj\x86\Debug\Server.FormaServer.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\Server.exe
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\Server.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\Biblioteka.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\Sesija.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\Sesija.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\obj\x86\Debug\Server.FormaServer.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\obj\x86\Debug\Server.exe
+C:\Users\Pavle\Desktop\Frizerski salon-2\Frizerski salon\Server\obj\x86\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\Biblioteka.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\Sesija.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\Biblioteka.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\Sesija.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.exe
+C:\Users\lazam\Desktop\ProjektiZaPosao\Frizerski salon C#\Frizerski salon\Server\obj\x86\Debug\Server.pdb
